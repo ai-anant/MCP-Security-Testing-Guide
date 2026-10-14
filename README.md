@@ -21,7 +21,7 @@ Read the guide in this order. Chapter 3 holds the threat write-ups and **79 test
 9. [Appendix C — Security Review](<09. Appendix C - Security Review.md>)
 
 
-Do not use it to test systems without explicit written authorization. Use synthetic lab environments and placeholders or try this [MCP Goat](https://github.com/mcp-security-project/mcp-goatd)
+Do not use it to test systems without explicit written authorization. Use synthetic lab environments and placeholders or try this [MCP Goat](https://github.com/mcp-security-project/mcp-goat)
 
 ## Related OWASP projects
 
