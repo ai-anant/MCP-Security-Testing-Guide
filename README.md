@@ -19,6 +19,8 @@ Read the guide in this order. Chapter 3 holds the threat write-ups and **79 test
 7. [Appendix A — Glossary](<07. Appendix A - Glossary.md>)
 8. [Appendix B — Suggested Reading](<08. Appendix B - Suggested Reading.md>)
 9. [Appendix C — Security Review](<09. Appendix C - Security Review.md>)
+10. [Appendix D — Safe Lab Fixtures](<10. Appendix D - Safe Lab Fixtures.md>)
+11. [Appendix F — Testing Tools](<11. Appendix F - Testing Tools.md>)
 
 
 Do not use it to test systems without explicit written authorization. Use synthetic lab environments and placeholders or try this [MCP Goat](https://github.com/mcp-security-project/mcp-goatd)
